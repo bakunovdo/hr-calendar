@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hr-calendar/static/css/main.a25838b1.chunk.css",
+    "main.js": "/hr-calendar/static/js/main.ca1c485e.chunk.js",
+    "main.js.map": "/hr-calendar/static/js/main.ca1c485e.chunk.js.map",
+    "runtime-main.js": "/hr-calendar/static/js/runtime-main.addffc35.js",
+    "runtime-main.js.map": "/hr-calendar/static/js/runtime-main.addffc35.js.map",
+    "static/js/2.4937ae71.chunk.js": "/hr-calendar/static/js/2.4937ae71.chunk.js",
+    "static/js/2.4937ae71.chunk.js.map": "/hr-calendar/static/js/2.4937ae71.chunk.js.map",
+    "index.html": "/hr-calendar/index.html",
+    "static/css/main.a25838b1.chunk.css.map": "/hr-calendar/static/css/main.a25838b1.chunk.css.map",
+    "static/js/2.4937ae71.chunk.js.LICENSE.txt": "/hr-calendar/static/js/2.4937ae71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.addffc35.js",
+    "static/js/2.4937ae71.chunk.js",
+    "static/css/main.a25838b1.chunk.css",
+    "static/js/main.ca1c485e.chunk.js"
+  ]
+}
